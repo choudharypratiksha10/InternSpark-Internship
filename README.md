@@ -20,7 +20,7 @@ https://drive.google.com/file/d/1iG7IWbpAnysa4w65EtMjXh6gb1FnJ6n3/view?usp=drive
 
 ### 🔹 Task 2: JavaScript Interactive App
 
-An interactive web application built using JavaScript and DOM manipulation (Quiz App / Calculator).
+An interactive web application built using JavaScript and DOM manipulation (Quiz App).
 
 Drive Link:
 https://drive.google.com/file/d/1IBpn4Fw207z4ib7kEkJ92zsJEIZXZHrd/view?usp=sharing
